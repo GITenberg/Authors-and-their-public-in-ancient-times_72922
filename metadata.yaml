@@ -1,0 +1,32 @@
+_repo: Authors-and-their-public-in-ancient-times_72922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Putnam, George Haven
+    alias: Putnam, Geo. Haven
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '4082'
+    url: http://www.gutenberg.org/2009/agents/4082
+    wikipedia: https://en.wikipedia.org/wiki/George_Haven_Putnam
+description: ''
+gutenberg_issued: '2024-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72922'
+language: en
+pgterms:marc904: https://archive.org/details/authorstheirpubl00putnuoft
+pgterms:marc905: 20230402070833putnam
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: deaurider, Eleni Christofaki and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bG. P. Putnam''s sons, $c1893, pubdate 1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Authors and their public in ancient times
+url: http://www.gutenberg.org/ebooks/72922
